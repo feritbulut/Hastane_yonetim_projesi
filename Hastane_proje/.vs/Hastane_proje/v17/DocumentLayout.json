@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arif\\Desktop\\Hastane_proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{601E0175-F1EE-4F8B-A517-C8ABD0AFC6CE}|Hastane_proje\\Hastane_proje.csproj|c:\\users\\arif\\desktop\\hastane_proje\\hastane_proje\\doktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{601E0175-F1EE-4F8B-A517-C8ABD0AFC6CE}|Hastane_proje\\Hastane_proje.csproj|solutionrelative:hastane_proje\\doktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601E0175-F1EE-4F8B-A517-C8ABD0AFC6CE}|Hastane_proje\\Hastane_proje.csproj|c:\\users\\arif\\desktop\\hastane_proje\\hastane_proje\\doktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601E0175-F1EE-4F8B-A517-C8ABD0AFC6CE}|Hastane_proje\\Hastane_proje.csproj|solutionrelative:hastane_proje\\doktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601E0175-F1EE-4F8B-A517-C8ABD0AFC6CE}|Hastane_proje\\Hastane_proje.csproj|C:\\Users\\Arif\\Desktop\\Hastane_proje\\hastane_proje\\sqlbaglant\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601E0175-F1EE-4F8B-A517-C8ABD0AFC6CE}|Hastane_proje\\Hastane_proje.csproj|solutionrelative:hastane_proje\\sqlbaglant\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoktorDetay.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Hastane_proje\\Hastane_proje\\DoktorDetay.cs",
+              "RelativeDocumentMoniker": "Hastane_proje\\DoktorDetay.cs",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Hastane_proje\\Hastane_proje\\DoktorDetay.cs",
+              "RelativeToolTip": "Hastane_proje\\DoktorDetay.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAADgv0IAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:45:10.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoktorDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Hastane_proje\\Hastane_proje\\DoktorDetay.cs",
+              "RelativeDocumentMoniker": "Hastane_proje\\DoktorDetay.cs",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Hastane_proje\\Hastane_proje\\DoktorDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane_proje\\DoktorDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:44:50.088Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sqlbaglant\u0131s\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Hastane_proje\\Hastane_proje\\sqlbaglant\u0131s\u0131.cs",
+              "RelativeDocumentMoniker": "Hastane_proje\\sqlbaglant\u0131s\u0131.cs",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Hastane_proje\\Hastane_proje\\sqlbaglant\u0131s\u0131.cs",
+              "RelativeToolTip": "Hastane_proje\\sqlbaglant\u0131s\u0131.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:12:25.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
